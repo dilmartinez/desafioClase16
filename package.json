@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dilmartinez/Backend.git"
+    "url": "git+https://github.com/dilmartinez/desafioClase16.git" https://github.com/dilmartinez/desafioClase16.git
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Riblast/Backend/issues"
+    "url": "https://github.com/dilmartinez/desafioClase16/issues"
   },
-  "homepage": "https://github.com/Riblast/Backend#readme",
+  "homepage": "https://github.com/dilmartinez/desafioClase16#readme",
   "dependencies": {
     "express": "^4.18.2",
     "knex": "^2.3.0",
